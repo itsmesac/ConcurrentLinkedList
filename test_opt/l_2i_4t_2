@@ -1,0 +1,44 @@
+
+add(3) invoked
+validate : pred's val : -999999, curr's val : 999999
+add(7) invoked
+add(5) invoked
+add(1) invoked
+add(3) finished, retVal 1
+add(4) invoked
+validate : pred's val : 3, curr's val : 999999
+add(4) finished, retVal 1
+remove(4) invoked
+validate : pred's val : 3, curr's val : 4
+remove(4) finished, retval 1
+remove(3) invoked
+validate : pred's val : -999999, curr's val : 999999
+validate : pred's val : -999999, curr's val : 999999
+validate : pred's val : -999999, curr's val : 3
+remove(3) finished, retval 1
+validate : pred's val : -999999, curr's val : 1207961840
+validate : pred's val : -999999, curr's val : 999999
+add(1) finished, retVal 1
+add(2) invoked
+validate : pred's val : 1, curr's val : 999999
+add(5) finished, retVal 1
+add(6) invoked
+validate : pred's val : 1, curr's val : 999999
+validate : pred's val : -999999, curr's val : 999999
+validate : pred's val : 5, curr's val : 999999
+add(6) finished, retVal 1
+validate : pred's val : 1, curr's val : 5
+add(2) finished, retVal 1
+remove(2) invoked
+remove(6) invoked
+validate : pred's val : 1, curr's val : 2
+remove(2) finished, retval 1
+remove(1) invoked
+validate : pred's val : -999999, curr's val : 1
+remove(1) finished, retval 1
+validate : pred's val : 5, curr's val : 6
+remove(6) finished, retval 1
+remove(5) invoked
+validate : pred's val : -999999, curr's val : 5
+remove(5) finished, retval 1
+validate : pred's val : 1073744112, curr's val : 999999
